@@ -32,6 +32,7 @@ public class JavaBdd01 {
            //Consultar de tipo insert etc
            //chupa el picoooo fabian jijijijiji
            
+           
        }catch(Exception ex){
            System.out.println("ERROR:"+ex.getMessage());
            //Encargado de dar Mensaje de error
